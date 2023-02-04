@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hv7f3OeF8kaHhIl5z0T+Coo1m73A3mNkkjk3LxbOjK4IhBuO3vNAu2HgMfdURSDuN2nYsnahKtAwDLQx2k69PQ==",
+  "dgSpecHash": "RG/sSHjd7CMIfTyVtRf7ujQuxh1ZEPB3YfgwJLql4rv0dt0Jtn8TAAdyD0NL5C7VbuwJnqvBtAI3P0eYtvW+Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\monst\\Desktop\\VSCode\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\monst\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\monst\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\monst\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\monst\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.13\\microsoft.entityframeworkcore.6.0.13.nupkg.sha512",
     "C:\\Users\\monst\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.13\\microsoft.entityframeworkcore.abstractions.6.0.13.nupkg.sha512",
     "C:\\Users\\monst\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.13\\microsoft.entityframeworkcore.analyzers.6.0.13.nupkg.sha512",

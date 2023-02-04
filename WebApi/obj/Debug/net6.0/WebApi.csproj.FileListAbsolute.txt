@@ -30,3 +30,5 @@ C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Entity
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
