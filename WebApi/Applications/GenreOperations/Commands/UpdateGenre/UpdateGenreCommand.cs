@@ -6,8 +6,8 @@ namespace WebApi.Applications.GenreOperations.Commands.UpdateGenre
     {
         public int GenreId { get; set; }
         public UpdateGenreModel Model { get; set; }
-        private readonly BookStoreDbContext _context;
-        public UpdateGenreCommand(BookStoreDbContext context)
+        private readonly IBookStoreDbContext _context;
+        public UpdateGenreCommand(IBookStoreDbContext context)
         {
             _context = context;
         }
@@ -25,7 +25,7 @@ namespace WebApi.Applications.GenreOperations.Commands.UpdateGenre
             }
             genre.Name = string.IsNullOrEmpty(Model.Name.Trim()) ? genre.Name : Model.Name;
             genre.IsActive = Model.IsActive;
-            _context.Update(genre);
+
             _context.SaveChanges();
         }
     }
