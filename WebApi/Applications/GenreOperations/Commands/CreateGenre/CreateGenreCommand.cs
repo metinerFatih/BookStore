@@ -28,6 +28,6 @@ namespace WebApi.Applications.GenreOperations.Commands.CreateGenre
 
     public class CreateGenreModel
     {
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
     }
 }

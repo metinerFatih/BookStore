@@ -33,10 +33,10 @@ namespace WebApi.BookOperations.GetBooks
     }
     public class GetBookByIdViewModel
     {
-        public string Title { get; set; }
+        public string Title { get; set; } = null!;
         public int PageCount { get; set; }
-        public string Author { get; set; }
-        public string PublishDate { get; set; }
-        public string Genre { get; set; }
+        public string Author { get; set; } = null!;
+        public string PublishDate { get; set; } = null!;
+        public string Genre { get; set; } = null!;
     }
 }

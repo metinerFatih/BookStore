@@ -30,8 +30,8 @@ namespace WebApi.Applications.AuthorOperations.Command.CreateAuthor
 
     public class CreateAuthorModel
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string Name { get; set; } = null!;
+        public string Surname { get; set; } = null!;
         public DateTime BirthDate { get; set; }
     }
 }

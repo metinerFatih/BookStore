@@ -5,6 +5,14 @@ C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\WebApi.deps.json
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\WebApi.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -25,11 +33,3 @@ C:\Users\monst\Desktop\VSCode\BookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dl
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\monst\Desktop\VSCode\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\monst\Desktop\VSCode\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll

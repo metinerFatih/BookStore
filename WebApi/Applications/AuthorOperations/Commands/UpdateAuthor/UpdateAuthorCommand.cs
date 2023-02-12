@@ -29,7 +29,7 @@ namespace WebApi.Applications.AuthorOperations.Command.UpdateAuthor
 
     public class UpdateAuthorModel
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string Name { get; set; } = null!;
+        public string Surname { get; set; } = null!;
     }
 }

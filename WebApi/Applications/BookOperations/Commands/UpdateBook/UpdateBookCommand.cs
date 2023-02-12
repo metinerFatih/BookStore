@@ -28,7 +28,7 @@ namespace WebApi.BookOperations.UpdateBook
 
         public class UpdateBookModel
         {
-            public string Title { get; set; }
+            public string Title { get; set; } = null!;
             public int GenreId { get; set; }
         }
     }

@@ -25,8 +25,8 @@ namespace WebApi.Applications.AuthorOperations.Queries.GetAuthors
     public class AuthorsViewModel
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public DateTime BirthDate { get; set; }
+        public string Name { get; set; } = null!;
+        public string Surname { get; set; } = null!;
+        public string? BirthDate { get; set; }
     }
 }
